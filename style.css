@@ -1,0 +1,29 @@
+body{
+    background-color: aquamarine;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+h1{
+    text-align: center;
+   color: crimson;
+}
+h2{
+    color: crimson;
+}
+input{
+    color: darkmagenta;
+    font-size: x-large;
+    border-radius: 5px;
+    
+}
+button{
+    border-radius: 5px;
+    background-color: floralwhite;
+    text-align: center;
+}
+button a{
+    color: darkmagenta;
+    font-size: x-large;
+    
+    
+}
